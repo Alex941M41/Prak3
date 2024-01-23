@@ -1,2 +1,2 @@
-print("Hello team")
+print("Hello my team")
 # плохой коммент
